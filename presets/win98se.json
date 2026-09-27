@@ -1,0 +1,12 @@
+{
+  "id": "win98se",
+  "label": "Windows 98 / 98SE",
+  "era": "win98se",
+  "machineType": "premier",
+  "cpu": "pentium2",
+  "cpuSpeed": 300000000,
+  "ramMb": 128,
+  "soundProfileId": "sb16",
+  "videoProfileId": "pcivga",
+  "notes": "Default MVP profile for 98SE-class installs. No ROM bytes included."
+}

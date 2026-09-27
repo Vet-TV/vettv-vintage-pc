@@ -1,0 +1,12 @@
+{
+  "id": "win95",
+  "label": "Windows 95",
+  "era": "win95",
+  "machineType": "premier",
+  "cpu": "pentium",
+  "cpuSpeed": 100000000,
+  "ramMb": 32,
+  "soundProfileId": "sb16",
+  "videoProfileId": "pcivga",
+  "notes": "Typical mid-90s desktop profile. No ROM bytes included."
+}

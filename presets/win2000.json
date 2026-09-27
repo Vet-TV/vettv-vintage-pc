@@ -1,0 +1,13 @@
+{
+  "id": "win2000",
+  "label": "Windows 2000 (experimental)",
+  "era": "win2000",
+  "experimental": true,
+  "machineType": "5600xii",
+  "cpu": "pentium2",
+  "cpuSpeed": 450000000,
+  "ramMb": 256,
+  "soundProfileId": "es1371",
+  "videoProfileId": "pcivga",
+  "notes": "Experimental until smoke bar passes. No ROM bytes included."
+}
